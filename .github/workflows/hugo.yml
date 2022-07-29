@@ -11,3 +11,5 @@ jobs:
 
     - name: hugo
       uses: klakegg/actions-hugo@1.0.0
+      with:
+        target: Docs
