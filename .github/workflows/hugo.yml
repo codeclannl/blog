@@ -1,5 +1,7 @@
 name: Hugo
 
+on: [push]
+
 permissions:
   contents: write
 
